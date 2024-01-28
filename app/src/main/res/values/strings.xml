@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sym_template">%s / %s</string>
+    <string name="price">Цена:</string>
+    <string name="minimum">Минимум за день:</string>
+    <string name="maximum">Максимум за день:</string>
+    <string name="lastoffer">Последняя сделка: %s</string>
+    <string name="lastupdate">Обновлено: %s</string>
+</resources>
